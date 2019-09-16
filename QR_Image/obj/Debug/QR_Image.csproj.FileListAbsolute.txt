@@ -1,0 +1,17 @@
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.csprojAssemblyReference.cache
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.Form1.resources
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.Properties.Resources.resources
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.csproj.GenerateResource.cache
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.csproj.CoreCompileInputs.cache
+I:\Programming\C#\QR_Image\bin\Debug\QR_Image.exe.config
+I:\Programming\C#\QR_Image\bin\Debug\QR_Image.exe
+I:\Programming\C#\QR_Image\bin\Debug\QR_Image.pdb
+I:\Programming\C#\QR_Image\bin\Debug\zxing.dll
+I:\Programming\C#\QR_Image\bin\Debug\zxing.presentation.dll
+I:\Programming\C#\QR_Image\bin\Debug\zxing.pdb
+I:\Programming\C#\QR_Image\bin\Debug\zxing.xml
+I:\Programming\C#\QR_Image\bin\Debug\zxing.presentation.pdb
+I:\Programming\C#\QR_Image\bin\Debug\zxing.presentation.xml
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.csproj.CopyComplete
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.exe
+I:\Programming\C#\QR_Image\obj\Debug\QR_Image.pdb
